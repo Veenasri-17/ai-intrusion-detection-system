@@ -15,6 +15,8 @@ Data preprocessing and feature engineering
 Data augmentation for improving model performance
 Stacking classifier for improved accuracy and robustness
 Model evaluation using performance metrics
+
+
 🧠 Technologies Used
 Python 🐍
 TensorFlow / Keras
@@ -24,6 +26,8 @@ Matplotlib / Seaborn
 Flask (for deployment)
 SQLite (for data storage)
 Jupyter Notebook
+
+
 📁 Project Structure
 ai-intrusion-detection-system/
 │
@@ -33,6 +37,8 @@ ai-intrusion-detection-system/
 ├── app.py                     # Flask application (if used)
 ├── requirements.txt          # Dependencies
 └── README.md                  # Project documentation
+
+
 🚀 How to Run
 1️⃣ Clone the repository
 git clone https://github.com/your-username/ai-intrusion-detection-system.git
@@ -50,11 +56,13 @@ Then open intrusion_detection.ipynb and run all cells.
 Improved detection accuracy using ensemble learning (stacking classifier)
 Better performance in detecting abnormal network behavior
 Reduced false positives using optimized feature selection
+
 📌 Future Improvements
 Real-time intrusion detection system
 Cloud deployment using AWS / Azure
 Integration with live network traffic monitoring
 Improved deep learning architectures
+
 👨‍💻 Author
 
 Vakeel Veenasri
